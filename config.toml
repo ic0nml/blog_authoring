@@ -11,7 +11,7 @@ paginate = 5000 #frontpage pagination
       unsafe = true
 
 [params]
-  header_image = "images/main_go_wideandtall_darklayer.jpeg"
+  header_image = "images/samurai.png"
   title = "ML Notes and Codes"
   slogan = "WTM"
   SEOTitle = "PLTW Blog"
