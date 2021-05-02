@@ -2,7 +2,3 @@
 	path = themes/hugo-theme-cleanwhite-rsy
 	url = git@github.com:youngkin/hugo-theme-cleanwhite-rsy.git
 
-[submodule "public"]
-	path = public
-	url = https://git@github.com/ic0nml/ic0nml.github.io.git
-	branch = master
