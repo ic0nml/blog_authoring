@@ -25,7 +25,7 @@ echo ""
 echo ""
 echo "Committing changes to $(pwd)"
 git add .
-git commit -m "$msg"
+git commit -m "$msg" --author="ic0nml <przemek.witaszczyk@protonmail.ch>"
 git push origin master
 
 # Add this repos changes to git and commit/push. First 'cd' out of public
@@ -34,5 +34,5 @@ echo ""
 echo ""
 echo "Committing changes to $(pwd)"
 git add .
-git commit -m "$msg"
+git commit -m "$msg" --author="ic0nml <przemek.witaszczyk@protonmail.ch>"
 git push origin master
