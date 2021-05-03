@@ -11,7 +11,7 @@ paginate = 5000 #frontpage pagination
       unsafe = true
 
 [params]
-  header_image = "static/images/swars.png"
+  header_image = "images/swars.png"
   title = "ML Notes&Codes"
   #slogan = "WTM"
   SEOTitle = "ic0n"
