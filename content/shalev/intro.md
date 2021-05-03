@@ -8,4 +8,4 @@ slug: shalev
 
 
 [On ML foundations](https://ic0nml.github.io/shalev.md)
-[Scikit](scikit/intro)
+[Scikit](scikit/intro.md)
