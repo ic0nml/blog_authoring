@@ -1,4 +1,6 @@
 ---
+title: 'Init 6'
+showthedate: false
 toc: true
 ---
 
