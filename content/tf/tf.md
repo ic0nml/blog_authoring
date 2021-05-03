@@ -7,4 +7,4 @@ draft: true
 <!---more--->
 
 blah  oooo 
-[Scikit](https://ic0nml.github.io/scikit/intro.md)
+[Scikit](scikit/intro)
