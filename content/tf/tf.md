@@ -7,4 +7,4 @@ draft: true
 <!---more--->
 
 blah  oooo 
-[Scikit](scikit/intro)
+[Scikit](/scikit/intro)
