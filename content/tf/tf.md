@@ -6,5 +6,5 @@ draft: true
 
 <!---more--->
 
-blah  oooo 
+ooblah  oooo 
 [Scikit](/scikit/intro)
