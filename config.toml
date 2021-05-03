@@ -1,6 +1,6 @@
 baseURL = "https://ic0nml.github.io"
 languageCode = "en-us"
-title = "ICON.ML Blog"
+title = "ic0n Blog"
 theme = "hugo-theme-cleanwhite-rsy"
 
 paginate = 5000 #frontpage pagination
@@ -11,10 +11,10 @@ paginate = 5000 #frontpage pagination
       unsafe = true
 
 [params]
-  header_image = "static/images/samurai.png"
-  title = "ML Notes and Codes"
-  slogan = "WTM"
-  SEOTitle = "PLTW Blog"
+  header_image = "static/images/swars.png"
+  title = "ML Notes&Codes"
+  #slogan = "WTM"
+  SEOTitle = "ic0n"
   keyword = "ML, AI, DL"
  
   # Sidebar settings
