@@ -6,6 +6,4 @@ description: Metallica is an American heavy metal band formed in 1981.
 slug: shalev
 ---
 
-
-[On ML foundations](https://ic0nml.github.io/shalev.md)
 [Scikit](https://ic0nml.github.io/scikit/intro.md)
