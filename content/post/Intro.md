@@ -17,4 +17,4 @@ toc: true
 ```
 
 
-[On ML foundations](/shalev/Intro.md)
+[On ML foundations](https://ic0nml.github.io/post/shalev/Intro.md)
