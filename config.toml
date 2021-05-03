@@ -16,6 +16,7 @@ paginate = 5000 #frontpage pagination
   #slogan = "WTM"
   SEOTitle = "ic0n"
   keyword = "ML, AI, DL"
+  ShowDatesOnPosts = false
  
   # Sidebar settings
   #sidebar_about_description = "Me"
