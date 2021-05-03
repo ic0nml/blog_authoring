@@ -15,7 +15,7 @@ fi
 echo ""
 echo ""
 echo "Committing changes to $(pwd)"
-hugo -D
+hugo -D -E --ignoreCache --gc -F
 
 # Go To Public folder
 cd public
