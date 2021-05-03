@@ -17,4 +17,5 @@ toc: true
 ```
 
 
-[On ML foundations](https://ic0nml.github.io/post/shalev/Intro.md)
+[On ML foundations](https://ic0nml.github.io/post/shalev.md)
+[Shalev]({{< ref "shalev.md" >}} "Shalev")
