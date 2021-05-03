@@ -1,7 +1,6 @@
 ---
 title: 'Init 6'
 description: 'Ko-Paull Vissick'
-#showthedate: false
 toc: true
 hideDate: true
 ---
