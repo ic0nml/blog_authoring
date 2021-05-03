@@ -17,6 +17,7 @@ paginate = 5000 #frontpage pagination
   SEOTitle = "ic0n"
   keyword = "ML, AI, DL"
   ShowDatesOnPosts = false
+  hidedate = true
  
   # Sidebar settings
   #sidebar_about_description = "Me"
